@@ -1,0 +1,25 @@
+{
+  "cleaning_date": "2025-10-21T15:06:23.851446",
+  "datasets_processed": [
+    {
+      "name": "vaccination_coverage",
+      "rows": 238,
+      "columns": 19,
+      "regions": "N/A"
+    },
+    {
+      "name": "emergency_visits",
+      "rows": 27180,
+      "columns": 11,
+      "regions": "N/A"
+    }
+  ],
+  "master_dataset": {
+    "rows": 27180,
+    "columns": 11,
+    "regions": 18,
+    "date_range": "2019-12-30 00:00:00 to 2025-10-06 00:00:00",
+    "weeks": 302,
+    "completeness": "88.3%"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "discovery_date": "2025-10-21T15:06:16.287878",
+  "base_path": "c:\\Users\\gabin\\Desktop\\epitech\\hackaton-sante\\projet\\DATASET",
+  "files_found": 0,
+  "categories": {
+    "vaccination_coverage": {
+      "description": "Vaccination coverage rates for adolescents and adults",
+      "levels": [
+        "national",
+        "regional",
+        "departmental"
+      ],
+      "time_period": "Since 2011"
+    },
+    "emergency_passages": {
+      "description": "Emergency room visits and SOS Médecins acts for flu",
+      "levels": [
+        "national",
+        "regional",
+        "departmental"
+      ],
+      "frequency": "Weekly"
+    },
+    "flu_campaigns": {
+      "description": "Flu vaccination campaigns",
+      "years": [
+        "2021-2022",
+        "2022-2023",
+        "2023-2024",
+        "2024-2025"
+      ],
+      "file_types": [
+        "campaign",
+        "couverture",
+        "doses-actes"
+      ]
+    }
+  },
+  "quality_issues": [
+    "French character encoding (use latin-1 or cp1252)",
+    "Date format variations",
+    "Missing values in some datasets",
+    "Geographic level alignment needed"
+  ],
+  "recommended_approach": [
+    "Focus on regional level (good balance of detail and data availability)",
+    "Use emergency room data as primary demand signal",
+    "Use vaccination coverage to identify gaps",
+    "Use campaign data for historical effectiveness"
+  ]
+}
