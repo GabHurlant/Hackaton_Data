@@ -39,4 +39,4 @@ Afin de se placer dans le dossier contenant les différents notebooks, puis :
 # Dashboard
 
 
-hack.dashboard.vercel.app
+hackdashboard.vercel.app
