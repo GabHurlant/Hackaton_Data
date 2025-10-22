@@ -11,7 +11,8 @@ notebooks = [
     "01_Data_Cleaning.ipynb",
     "02_Exploratory_Analysis.ipynb",
     "03_Forecasting.ipynb",
-    "04_Optimization.ipynb"
+    "04_Optimization.ipynb",
+    "05_Dashboard.ipynb"
 ]
 
 for nb_file in notebooks:
