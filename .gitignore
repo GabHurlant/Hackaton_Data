@@ -1,0 +1,21 @@
+# Project artifacts to ignore
+projet/models/
+projet/optimization_outputs/
+projet/data/results/
+
+# Non-notebook data exports (JSON/TXT reports)
+projet/data/**/*.json
+projet/data/**/*.txt
+projet/executive_summary_report.txt
+projet/data/processed/data_quality_report.json
+projet/data_catalog.json
+
+# Ignore all CSV data by default
+*.csv
+
+# Keep the raw DATASET folder under version control
+!projet/DATASET/
+!projet/DATASET/**/*.csv
+
+# Keep this file tracked
+!.gitignore
