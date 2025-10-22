@@ -1,6 +1,6 @@
 # 📊 Exploratory Data Analysis - Key Insights
 
-**Analysis Date**: 2025-10-22 10:38
+**Analysis Date**: 2025-10-22 12:25
 
 ---
 
@@ -48,9 +48,15 @@
 - [epidemic_peaks.html](visualizations/epidemic_peaks.html)
 - [forecast_comparison.html](visualizations/forecast_comparison.html)
 - [feature_importance_analysis.html](visualizations/feature_importance_analysis.html)
+- [dashboard_implementation_roadmap.html](visualizations/dashboard_implementation_roadmap.html)
+- [dashboard_financial_impact.html](visualizations/dashboard_financial_impact.html)
+- [dashboard_kpis.html](visualizations/dashboard_kpis.html)
 - [seasonality_by_month.html](visualizations/seasonality_by_month.html)
 - [emergency_visits_timeline.html](visualizations/emergency_visits_timeline.html)
+- [dashboard_regional_priorities.html](visualizations/dashboard_regional_priorities.html)
 - [regional_heatmap.html](visualizations/regional_heatmap.html)
+- [dashboard_forecast_performance.html](visualizations/dashboard_forecast_performance.html)
 - [model_r2_comparison.html](visualizations/model_r2_comparison.html)
 - [allocation_by_region.html](visualizations/allocation_by_region.html)
+- [dashboard_seasonal_timing.html](visualizations/dashboard_seasonal_timing.html)
 - [coverage_by_region.html](visualizations/coverage_by_region.html)
