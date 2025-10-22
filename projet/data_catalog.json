@@ -1,7 +1,7 @@
 {
-  "discovery_date": "2025-10-21T15:06:16.287878",
-  "base_path": "c:\\Users\\gabin\\Desktop\\epitech\\hackaton-sante\\projet\\DATASET",
-  "files_found": 0,
+  "discovery_date": "2025-10-22T10:38:26.646986",
+  "base_path": "/Users/fadybekkar/Desktop/EPITECH/HACK/Hackaton_Data/projet/DATASET",
+  "files_found": 18,
   "categories": {
     "vaccination_coverage": {
       "description": "Vaccination coverage rates for adolescents and adults",
