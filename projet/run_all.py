@@ -27,8 +27,8 @@ for nb_file in notebooks:
         with open(nb_file, 'w', encoding="utf-8") as f:
             nbformat.write(nb, f)
 
-        print(f"✅ Terminé et enregistré dans {nb_file}")
+        print(f" Terminé et enregistré dans {nb_file}")
 
     except Exception as e:
-        print(f"❌ Erreur pendant l'exécution de {nb_file} : {e}")
+        print(f" Erreur pendant l'exécution de {nb_file} : {e}")
         break

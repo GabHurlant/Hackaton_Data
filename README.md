@@ -27,10 +27,16 @@ Nous avons également ajouté un dashboard
 
 # Exécuter le projet
 
-Pour lancer les notebooks: 
+Pour lancer les notebooks:
 
 ``cd projet``
 
 Afin de se placer dans le dossier contenant les différents notebooks, puis :
 
 `` python run_all.py``
+
+
+# Dashboard
+
+
+hack.dashboard.vercel.app
